@@ -5,3 +5,4 @@ str = "   fly me   to   the moon  "
 # print(w)
 print(len(str.split()[-1]))
 
+

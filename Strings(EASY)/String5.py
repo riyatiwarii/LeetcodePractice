@@ -1,3 +1,13 @@
+'''Excel Sheet Column Title'''
+
+def convertToTitle(num):
+    s = ""
+    while num > 0:
+        num, rem = divmod(num - 1, 26)
+        s += chr(65 + rem)
+    return s[::-1]
+print(convertToTitle(29))
+
 def convertToTitle(columnNumber):
     capitals = [chr(x) for x in range(ord('A'), ord('Z')+1)]
     result = []
@@ -7,5 +17,3 @@ def convertToTitle(columnNumber):
     result.reverse()
     return "".join(result)
 print(convertToTitle(28))
-
-
