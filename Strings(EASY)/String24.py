@@ -1,3 +1,4 @@
+'''Goal Parser Interpretation'''
 def interpret(s):
     mapped = {'G':'G','()':'o','(al)':'al'}
     tmp = ''
