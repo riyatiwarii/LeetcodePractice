@@ -1,3 +1,4 @@
+'''Ring Rod'''
 def countPoints(rings):
     lst = []
     for i in range(len(rings)):
