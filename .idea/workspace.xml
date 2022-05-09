@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9553aeb-bf18-43db-9833-55cb137fc397" name="Changes" comment="24">
-      <change afterPath="$PROJECT_DIR$/Strings(EASY)/String25.py" afterDir="false" />
+    <list default="true" id="d9553aeb-bf18-43db-9833-55cb137fc397" name="Changes" comment="37">
+      <change afterPath="$PROJECT_DIR$/Strings(EASY)/String38.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings(EASY)/String24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings(EASY)/String24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.String25">
-    <configuration name="String21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.String38">
+    <configuration name="String34" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetcodePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String34.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String35" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetcodePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String35.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String36" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetcodePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String36.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String37" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetcodePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String37.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="String25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="String38" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetcodePractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings(EASY)/String38.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.String25" />
-        <item itemvalue="Python.String24" />
-        <item itemvalue="Python.String23" />
-        <item itemvalue="Python.String22" />
-        <item itemvalue="Python.String21" />
+        <item itemvalue="Python.String38" />
+        <item itemvalue="Python.String37" />
+        <item itemvalue="Python.String36" />
+        <item itemvalue="Python.String35" />
+        <item itemvalue="Python.String34" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +305,126 @@
       <option name="project" value="LOCAL" />
       <updated>1651733475529</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="25">
+      <created>1651773377503</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651773377503</updated>
+    </task>
+    <task id="LOCAL-00022" summary="24">
+      <created>1651773425856</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1651773425856</updated>
+    </task>
+    <task id="LOCAL-00023" summary="26">
+      <created>1651776286090</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651776286090</updated>
+    </task>
+    <task id="LOCAL-00024" summary="27">
+      <created>1651777961080</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1651777961080</updated>
+    </task>
+    <task id="LOCAL-00025" summary="28">
+      <created>1651779427886</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1651779427886</updated>
+    </task>
+    <task id="LOCAL-00026" summary="28">
+      <created>1651815909741</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1651815909741</updated>
+    </task>
+    <task id="LOCAL-00027" summary="29">
+      <created>1651817079449</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1651817079449</updated>
+    </task>
+    <task id="LOCAL-00028" summary="30">
+      <created>1651925787117</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1651925787117</updated>
+    </task>
+    <task id="LOCAL-00029" summary="30">
+      <created>1651928291859</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1651928291859</updated>
+    </task>
+    <task id="LOCAL-00030" summary="31">
+      <created>1651928320715</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1651928320715</updated>
+    </task>
+    <task id="LOCAL-00031" summary="32">
+      <created>1651929746909</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1651929746909</updated>
+    </task>
+    <task id="LOCAL-00032" summary="33">
+      <created>1651938511557</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651938511557</updated>
+    </task>
+    <task id="LOCAL-00033" summary="33">
+      <created>1651938860170</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651938860170</updated>
+    </task>
+    <task id="LOCAL-00034" summary="34">
+      <created>1651939095836</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651939095836</updated>
+    </task>
+    <task id="LOCAL-00035" summary="35">
+      <created>1651940264580</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651940264580</updated>
+    </task>
+    <task id="LOCAL-00036" summary="36">
+      <created>1651941580121</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1651941580121</updated>
+    </task>
+    <task id="LOCAL-00037" summary="37">
+      <created>1651944726277</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1651944726277</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,12 +439,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hi" />
-    <MESSAGE value="7" />
-    <MESSAGE value="8" />
-    <MESSAGE value="9" />
-    <MESSAGE value="10" />
-    <MESSAGE value="11" />
     <MESSAGE value="12" />
     <MESSAGE value="13" />
     <MESSAGE value="14" />
@@ -338,7 +450,20 @@
     <MESSAGE value="20" />
     <MESSAGE value="21" />
     <MESSAGE value="22" />
+    <MESSAGE value="25" />
     <MESSAGE value="24" />
-    <option name="LAST_COMMIT_MESSAGE" value="24" />
+    <MESSAGE value="26" />
+    <MESSAGE value="27" />
+    <MESSAGE value="28" />
+    <MESSAGE value="29" />
+    <MESSAGE value="30" />
+    <MESSAGE value="31" />
+    <MESSAGE value="32" />
+    <MESSAGE value="33" />
+    <MESSAGE value="34" />
+    <MESSAGE value="35" />
+    <MESSAGE value="36" />
+    <MESSAGE value="37" />
+    <option name="LAST_COMMIT_MESSAGE" value="37" />
   </component>
 </project>
