@@ -1,7 +1,3 @@
 def prefixCount(words, pref):
-    count = 0
-    for word in words:
-        if word.startswith(pref):
-            count += 1
-    return count
+    return sum(word.startswith(pref) for word in words)
 print(prefixCount(["pay","attention","practice","attend","rat"],"at"))
