@@ -1,3 +1,4 @@
+'''Destination City'''
 def destCity(paths):
     d = dict(paths)
     for i in d.values():
