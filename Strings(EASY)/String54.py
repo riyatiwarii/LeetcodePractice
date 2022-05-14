@@ -1,3 +1,4 @@
+'''Kth Distinct String in an Array'''
 def kthDistinct(arr, k):
     from collections import Counter
     l=[]
